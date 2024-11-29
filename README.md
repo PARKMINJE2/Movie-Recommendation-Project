@@ -68,7 +68,7 @@
 
 ## 3. 데이터베이스 모델링 (ERD)
 
-![alt text](마...지막ERD.png)
+![alt text](ERD.png)
 
 - Movie: 영화 정보를 저장하는 모델로, TMDb ID, 제목, 개봉일, 장르 정보 등 영화의 주요 정보를 저장합니다.
 
